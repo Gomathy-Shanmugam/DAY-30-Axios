@@ -1,0 +1,32 @@
+.custom-width {
+    width: 80%; /* Adjust the width as needed */
+  }
+ 
+ 
+  .col-lg-12{
+    background: linear-gradient(160deg, #286192, black);
+  }
+  *{
+    font-family: poppins sans-serif;
+    font-size: 20px;
+   
+  }
+  .forgotpassword{
+    background: linear-gradient(160deg, #286192, black);
+  }
+  .register{
+    background: linear-gradient(160deg, #286192, black);
+  }
+  .heading{
+    font-style: italic;
+    color: rgb(135, 32, 231);
+  
+  }
+  .icon:hover {
+   transform:  scale(1.5);
+  }
+  .home{
+    background-color: rgb(216, 213, 213);
+  }
+ 
+  
