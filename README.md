@@ -4,13 +4,16 @@ DAY-30
  * One of the key takeaways was learning how to import and manipulate data from a Mock API using the Axios hook. This skill proved invaluable in handling data fetching and updating within the application.
  * Additionally I add Login,Register,ForgotPassword Page
 
-HOME PAGE
+<b>HOME PAGE</b>
+
 <img src="https://github.com/Gomathy-Shanmugam/DAY-30-Axios/assets/113160365/5261bbda-9890-44a1-8af1-be8ffc746618">
 
-Create & Edit User Data
+<b>Create & Edit User Data</b>
+
 <img src = "https://github.com/Gomathy-Shanmugam/DAY-30-Axios/assets/113160365/bbe48457-750a-4549-a33f-4298c0bbc428">
 
-Dashboard
+<b>Dashboard</b>
+
 <img src = "https://github.com/Gomathy-Shanmugam/DAY-30-Axios/assets/113160365/1ec5bfe5-2998-422f-b2d3-cd931d8db595">
 
 
